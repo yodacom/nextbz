@@ -1,7 +1,7 @@
 {
-  "name": "sick-fits-frontend",
+  "name": "beerzap",
   "version": "1.0.0",
-  "description": "Sick Fits! An example React, GraphQL, Next and Apollo",
+  "description": "The beer lovers app to learn how to judge and share with friends your passion",
   "main": "index.js",
   "scripts": {
     "dev": "next -p 7777",
@@ -112,5 +112,8 @@
         ]
       }
     }
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
